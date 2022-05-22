@@ -1,6 +1,7 @@
 package main
 
 //seventh comment
+//eighth comment
 
 import (
 	//first comment
