@@ -1,6 +1,7 @@
 package main
 
 import (
+	//first comment
 	"github.com/liamg/traitor/internal/cmd"
 )
 
