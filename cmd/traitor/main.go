@@ -2,6 +2,7 @@ package main
 
 //seventh comment
 //eighth comment
+//ninth comment
 
 import (
 	//first comment
